@@ -1,8 +1,11 @@
-widget @id
-tvtunesquiz.app
-name
-TV Tunes Quiz
-description
-Play and guess the tv tune
-author (tvtunesquiz@outlook.com)
-tvtunesquiz@outlook.com
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://tvtunesquiz.app"
+        id        = "tvtunesquiz.app"
+        version   = "1.0.0">
+    <name>TV Tunes Quiz</name>
+    <description>
+Play and guess the tv tune    </description>
+    <author href="http://tvtunesquiz.com" email="tvtunesquiz@outlook.com">
+        TV Tunes Quiz
+   </author>
